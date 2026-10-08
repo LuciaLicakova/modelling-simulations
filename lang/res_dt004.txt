@@ -1,0 +1,12 @@
+Read from conf/0064_r0.500_T1.000_start with data for 64 particles
+Equilibrate: 1000...done
+Configuration with 64 particles written to conf/0064_r0.500_T1.000_alpha0.00_dt004
+
+Simulate 20 blocks x 1000 samples each: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 
+Potential E: -1.29812 +/- 0.000493463
+Pressure   : 0.591241 +/- 0.0018499
+Kinetic E  : 0.996787 +/- 0.000487137
+Total E    : -0.301329 +/- 5.15405e-05
+Size of the fluctuations in E (Sigma E): 0.00357658
+Configuration with 64 particles written to conf/0064_r0.500_T1.000_alpha0.00_dt004
+
